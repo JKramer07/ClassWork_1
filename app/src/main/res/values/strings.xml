@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">ClassWork_1</string>
+    <string name="log_in">LOG IN</string>
+    <string name="welcome">Welcome!</string>
+    <string name="sign_in_sign_up">Sign in | Sign up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="_7">7</string>
+    <string name="c">C</string>
+    <string name="pos_neg">+/-</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_0">0</string>
+    <string name="zapyataya">.</string>
+    <string name="percent">%</string>
+    <string name="multiply">*</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="zap">,</string>
+    <string name="equal">=</string>
+    <string name="divide">/</string>
 </resources>
